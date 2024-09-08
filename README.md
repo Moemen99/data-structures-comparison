@@ -67,11 +67,7 @@ linkedList.AddLast(5);
 ```
 
 ### LinkedList
-```mermaid
-graph LR
-    A[1|ref] --> B[3|ref]
-    B --> C[5|ref]
-    C --> D[null]
+[1|ref] --> [3|ref] --> [5|ref] --> null
 ```
 
 ## Performance Trade-offs
