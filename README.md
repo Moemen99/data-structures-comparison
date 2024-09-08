@@ -68,7 +68,6 @@ linkedList.AddLast(5);
 
 ### LinkedList
 [1|ref] --> [3|ref] --> [5|ref] --> null
-```
 
 ## Performance Trade-offs
 
