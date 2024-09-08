@@ -71,7 +71,7 @@ linkedList.AddLast(5);
 graph LR
     A[1|ref] --> B[3|ref]
     B --> C[5|ref]
-    C --> D((null))
+    C --> D[null]
 ```
 
 ## Performance Trade-offs
